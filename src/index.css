@@ -6,9 +6,9 @@
 @layer base {
   :root {
     background-color: #07071B;
-    padding: 1rem;
+    /* padding: 1rem; */
   }
   body {
-     /* padding: 5px; */
+     /* padding: 1rem; */
   }
 }

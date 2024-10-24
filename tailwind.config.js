@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       colors: {
         'primaryColor': '#00A8DC', // Your custom background color
+        'BgColor': '#07071B', // Your custom background color
       },
     },
   },
