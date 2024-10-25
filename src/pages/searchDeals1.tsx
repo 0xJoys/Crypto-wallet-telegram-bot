@@ -1,11 +1,9 @@
-import React from 'react'
+// import React from 'react'
 import FooterMenu from '../components/footerMenu'
-import { FaAngleDown, FaCopy, FaEyeSlash, FaInfo } from 'react-icons/fa'
 import { Link } from 'react-router-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import TonIcon from "../assets/tonIcon.png"
 import USDTIcon from "../assets/usdtIcon.png"
-import MetaMaskIcon from "../assets/metamaskIcon.png"
 import { faExchange } from '@fortawesome/free-solid-svg-icons/faExchange'
 import WalletAddyBal from '../components/walletAddyBal'
 

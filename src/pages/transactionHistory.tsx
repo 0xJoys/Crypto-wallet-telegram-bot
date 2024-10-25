@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import FooterMenu from '../components/footerMenu'
 import TonIcon from "../assets/tonIcon.png"
 import USDTIcon from "../assets/usdtIcon.png"

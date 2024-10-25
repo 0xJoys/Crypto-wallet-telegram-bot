@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import { FaCopy, FaEyeSlash } from 'react-icons/fa'
 import MetaMaskIcon from "../assets/metamaskIcon.png"
 

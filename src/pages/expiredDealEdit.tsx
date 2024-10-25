@@ -1,14 +1,10 @@
-import React, { useState } from 'react'
+// import React, { useState } from 'react'
 import FooterMenu from '../components/footerMenu'
-import { FaAngleLeft, FaArrowCircleLeft, FaCopy, FaEyeSlash, FaInfo } from 'react-icons/fa'
+import { FaAngleLeft } from 'react-icons/fa'
 import { Link } from 'react-router-dom'
-import { faArrowUp } from '@fortawesome/free-solid-svg-icons/faArrowUp'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faArrowDown } from '@fortawesome/free-solid-svg-icons/faArrowDown'
 import { IoWarning } from 'react-icons/io5'
 import TonIcon from "../assets/tonIcon.png"
 import USDTIcon from "../assets/usdtIcon.png"
-import MetaMaskIcon from "../assets/metamaskIcon.png"
 import { FaCircleInfo } from 'react-icons/fa6'
 import WalletAddyBal from '../components/walletAddyBal'
 

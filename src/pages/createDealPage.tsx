@@ -1,6 +1,6 @@
-import React, { useState } from 'react'
+// import React, { useState } from 'react'
 import FooterMenu from '../components/footerMenu'
-import { FaAngleDown, FaCopy, FaEyeSlash, FaInfo } from 'react-icons/fa'
+import { FaAngleDown } from 'react-icons/fa'
 import { Link } from 'react-router-dom'
 import { faArrowUp } from '@fortawesome/free-solid-svg-icons/faArrowUp'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'

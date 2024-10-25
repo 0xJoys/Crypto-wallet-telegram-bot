@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import FooterMenu from '../components/footerMenu'
 import MetaMaskIcon from "../assets/metamaskIcon.png"
 import TelegramIcon from "../assets/telegramIcon.png"
